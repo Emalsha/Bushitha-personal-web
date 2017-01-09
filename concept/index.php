@@ -7,8 +7,8 @@
 	<title>Bushitha Sehan &mdash; Innovater</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Bushitha Sehan's personal web site." />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="gettemplates.co" />
+	<meta name="keywords" content="innovative, excavator, new excavator, extendable arm and boom, adjustable counterweight, Bushitha , Bushitha new invents" />
+	<meta name="author" content="Emalsha Rasad" />
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -59,7 +59,7 @@
 					<ul>
 						<li class="active"><a href="#fh5co-header">Home</a></li>
 						<li class=""><a href="#fh5co-about">About</a></li>
-						<li class=""><a href="#fh5co-project">New Invention</a></li>
+						<li class=""><a href="#fh5co-project">My Inventions</a></li>
 						<li><a href="#fh5co-services">Achievments</a></li>
 						<li><a href="#fh5co-testimonial">Feedback</a></li>
 						<li><a href="#fh5co-footer">Contact</a></li>
@@ -71,7 +71,8 @@
 	</nav>
 
 	<!-- Home content -->
-	<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/img_bg_1.jpg);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url('images/bg_0<?php echo rand(1,6);?>.jpg');" data-stellar-background-ratio="0.5">
+		<div class="overlay_1"></div>
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -95,20 +96,38 @@
 	<div class="container">
 		<div class="row row-pb-md">
 			<div class="col-md-8 col-md-offset-2 text-left fh5co-heading  animate-box">
-				<span>Want Some Cool Stuff</span>
+				<span>Little bit about me</span>
 				<h2>About</h2>
-				<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+				<p>I’m interested in making new things and even more inventing things better. specially in Hydraulic stream. I’ve been inventing thins since I was grade 5 the first invention was a Cob web breaker. After that creation, I supposed to turn for hydraulic side. With that I made a model of an excavator which was fully done by wood and working by syringes. After the first approach, I developed it to a level which is operated by manual wooden levers. With the time passes, a mature idea came to my mind to make a miniature excavator model with fully metal and worked by DC current. So, I successfully finished that project, when I was grade 11 at the school.</p>
+				<p>After the school life, with my own knowledge about hydraulics and the A/L physics knowledge, my mind said to invent an efficient Excavator machine for the world, as a solution for the increasing energy crisis which affects to the whole world. So, I spent my whole life, my efforts, attempts, time and my money for this significant thing. But most of the people said “this is never gonna work”. With these all barriers, I’ve done it successfully within 2 years of time.</p>
+				<p>With these, I feel like, I’m stick into this endevorous thing with my entire life to inventing more products and more invention which relates to Hydraulics and Heavy machinery for world and success of the all of us with this carrier.</p>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-				<a href="#"><img src="images/work-1.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">
+				<img src="images/my-01.JPG" alt="exhibition photo	" class="img-responsive">
 					<div class="fh5co-copy">
-						<h3>Clipboard Office</h3>
-						<p>Web Design</p>
+						<h3>At the Exhibition</h3>
+						<p>
+							small description about this...
+						</p>
 					</div>
-				</a>
+			</div>
+			<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
+				<img src="images/my-02.JPG" alt="exhibition photo" class="img-responsive">
+					<div class="fh5co-copy">
+						<h3>At the Exhibition</h3>
+
+					</div>
+
+			</div>
+			<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
+				<img src="images/my-03.JPG" alt="exhibition photo" class="img-responsive">
+					<div class="fh5co-copy">
+						<h3>At the Exhibition</h3>
+
+					</div>
 			</div>
 
 		</div>
@@ -117,41 +136,39 @@
 </div>
 
 
-
-
 	<!-- About new inventions -->
 	<div id="fh5co-project">
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading  animate-box">
 					<span>Want Some Cool Stuff</span>
-					<h2>New Inventions</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>My Inventions</h2>
+					<p>Like I said before, I’m interested in making new things and even more inventing things better. Here few things about new inventions.</p>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-1.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">
+					<a href="#popup-01" class="open-popup-link" ><img src="images/new-01.JPG" alt="Mini-excavator" class="img-responsive">
 						<div class="fh5co-copy">
-							<h3>Clipboard Office</h3>
-							<p>Web Design</p>
+							<h3>Mini-Excavator Project</h3>
+							<p>Miniature excavator model with fully metal and work on DC current</p>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-2.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">
+					<a href="#popup-02" class="open-popup-link"><img src="images/new-02.JPG" alt="Movable counterweight" class="img-responsive">
 						<div class="fh5co-copy">
-							<h3>Smart Layers</h3>
-							<p>Brand &amp; Identity</p>
+							<h3>Movable Counterweight</h3>
+							<p>Auto or manually adjustable counterweight </p>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/work-3.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">
+					<a href="#popup-03" class="open-popup-link"><img src="images/new-03.JPG" alt="Extendable Boom and Arm" class="img-responsive">
 						<div class="fh5co-copy">
-							<h3>Notepad Mockup</h3>
-							<p>Illustration</p>
+							<h3>Extentable Boom &amp; Arm</h3>
+							<p>Hydraulically Extendable boom and Arm added to the Excavator</p>
 						</div>
 					</a>
 				</div>
@@ -161,7 +178,69 @@
 
 	</div>
 
+	<!-- Pop up contents  -->
+	<div id="popup-01" class="white-popup zoom-anim-dialog mfp-hide">
+		<h2>Mini-excavetor project</h2>
+		<p>
+			Content...
+		</p>
+		<img src="images/mini-excavator.jpg" alt="mini excavator image" class="img-responsive"/>
+	</div>
 
+	<div id="popup-02" class="white-popup zoom-anim-dialog  mfp-hide">
+			<h2>Movable Counterweight for Excavators</h2>
+			<p>
+				A counterweight is an equivalent counterbalancing weight that balances a load. Its purpose is to make lifting the load more efficient, which saves energy and is less taxing on the lifting machine
+				In Excavators equilibrium or the balance is the major part when it works. Because if we lift more loads we need to have more stability simply saying that needs more counterbalance.
+				But the significant fact is, more weight means more power consuming. In present Excavator machines, we seeing heavy counterweight permanently fixed at the backside of the machine.
+			</p>
+
+			<h4>Problems found</h4>
+			<ul>
+				<li>Unnecessary Energy and fuel wastage, when machine travelling due to the Heavy counterweight</li>
+				<li>Wearing of sprocket, rollers and other undercarriage parts due to unnecessary weight at the back of the machine</li>
+				<li>Travelling speed decreases </li>
+			</ul>
+
+			<h4>Solution</h4>
+			<ul>
+				<li>Auto or manually adjustable counterweight with light weight, when compare with the same weight class machines.</li>
+			</ul>
+
+			<h4>Advantages due to solution</h4>
+			<ul>
+				<li>Fuel efficiency increased up to 9.8% when travelling</li>
+				<li>Low of Ground pressure</li>
+				<li>High travelling speed</li>
+			</ul>
+			<img src="images/movable-counterweight.jpg" alt="movable-counterweight image" class="img-responsive"/>
+	</div>
+
+	<div id="popup-03" class="white-popup zoom-anim-dialog  mfp-hide">
+
+		<h2> Extendable Boom &amp; Arm for Excavators </h2>
+		<p>We using Excavators for many purposes like digging, trenching, deforestation, loading and etc. In some applications, we need Excavators with short arm, for heavy-duty works. And long arm for long range working areas. But even in latest Excavators there only have a fixed length boom. So, the fixed length boom and arm of an Excavator seems disadvantage due to various applications heavy-duty and long range works at one time.</p>
+
+		<h4> Problems Found </h4>
+		<ul>
+			<li>Short arm Excavators cannot be use to long range purposes </li>
+			<li>Long arm Excavators are difficult to transport in narrow areas</li>
+			<li>Long arm Excavators can’t be use for heavy-duty works like Tree stump removing, rock ripping etc.</li>
+		</ul>
+
+		<h4>Solution</h4>
+		<ul>
+			<li>Hydraulically Extendable boom and Arm added to the Excavator for heavy-duty purposes and the long range works at the same time</li>
+		</ul>
+
+		<h4>Advantages due to solution</h4>
+		<ul>
+			<li>Saves time</li>
+			<li>Easy to transport</li>
+		</ul>
+
+		<img src="images/extendable-arm.jpg" alt="extendable arm and boom image" class="img-responsive"/>
+	</div>
 
 	<!-- Acheivements **************** fh5co-->
 	<div id="fh5co-services" class="fh5co-bg-section border-bottom">
@@ -169,7 +248,7 @@
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
 					<div class="fh5co-heading">
-						<span>What we got </span>
+						<span>What I got </span>
 						<h2>Achievments</h2>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 					</div>
@@ -273,16 +352,14 @@
 					<h3>Contact</h3>
 					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
 					<p><a href="#">Learn More</a></p>
-				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 ">
 					<ul class="fh5co-footer-links">
-						<li> # </li>
 						<li>sample@sample.com</li>
 						<li>TEL : 000-000-0000</li>
 						<li>Mobile : 000-000-0000</li>
 
 					</ul>
 				</div>
+				
 			</div>
 
 			<!-- Footer part  -->
@@ -328,6 +405,19 @@
 	<script src="js/jquery.stellar.min.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+		$('.open-popup-link').magnificPopup({
+			type: 'inline',
+      closeBtnInside: true,
+      midClick: true,
+      removalDelay: 300,
+      mainClass: 'my-mfp-zoom-in'
+		});
+	})
+	</script>
 
 	</body>
 </html>

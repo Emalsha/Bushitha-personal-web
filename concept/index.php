@@ -58,9 +58,9 @@
 				<div class="col-xs-10 text-right menu-1">
 					<ul>
 						<li class="active"><a href="#fh5co-header">Home</a></li>
-						<li class=""><a href="#fh5co-about">About</a></li>
-						<li class=""><a href="#fh5co-project">My Inventions</a></li>
-						<li><a href="#fh5co-services">Achievments</a></li>
+						<li><a href="#fh5co-about">About</a></li>
+						<li><a href="#fh5co-project">My Inventions</a></li>
+						<!-- <li><a href="#fh5co-services">Achievments</a></li> -->
 						<li><a href="#fh5co-testimonial">Feedback</a></li>
 						<li><a href="#fh5co-footer">Contact</a></li>
 					</ul>
@@ -243,7 +243,7 @@
 	</div>
 
 	<!-- Acheivements **************** fh5co-->
-	<div id="fh5co-services" class="fh5co-bg-section border-bottom">
+	<!-- <div id="fh5co-services" class="fh5co-bg-section border-bottom">
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
@@ -291,7 +291,7 @@
 
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 
 	<!-- Feedback area -->
@@ -308,15 +308,15 @@
 				<div class="col-md-6 animate-box">
 					<div class="testimonial">
 						<blockquote>
-							<p>&ldquo;Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.&rdquo;</p>
-							<p class="author"> <img src="images/person1.jpg" alt="Free HTML5 Bootstrap Template by gettemplates.co"> <cite>&mdash; Mike Adam</cite></p>
+							<p>&ldquo; My dear Bushitha,&nbsp; This is wonderful. I'm really proud of you. Go ahead. I wish you all the very best.  &rdquo;</p>
+							<p class="author"> <cite>&mdash; Inspector General of Police Pujith Jayasundara</cite></p>
 						</blockquote>
 					</div>
 
 					<div class="testimonial fh5co-selected">
 						<blockquote>
-							<p>&ldquo;Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius. Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.&rdquo;</p>
-							<p class="author"><img src="images/person2.jpg" alt="Free HTML5 Bootstrap Template by gettemplates.co"> <cite>&mdash; Eric Miller</cite></p>
+							<p>&ldquo;It is a great creative idea. Wish you to do more things in future. All the best.&rdquo;</p>
+							<p class="author"> <cite>&mdash; Sandun</cite></p>
 						</blockquote>
 					</div>
 				</div>
@@ -324,17 +324,17 @@
 				<div class="col-md-6 animate-box">
 					<div class="testimonial fh5co-selected">
 						<blockquote>
-							<p>&ldquo;Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius. Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.&rdquo;</p>
-							<p class="author"><img src="images/person3.jpg" alt="Free HTML5 Bootstrap Template by gettemplates.co"> <cite>&mdash; Eric Miller</cite></p>
+							<p>&ldquo;This machine specialy design for the construction of our country. We can get more work at our work sites. Improvements are very nice.  &rdquo;</p>
+							<p class="author"> <cite>&mdash; Dhammika (B.Sc. Eng)</cite></p>
 						</blockquote>
 					</div>
 
-					<div class="testimonial">
+					<!-- <div class="testimonial">
 						<blockquote>
 							<p>&ldquo;Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.&rdquo;</p>
 							<p class="author"><img src="images/person1.jpg" alt="Free HTML5 Bootstrap Template by gettemplates.co"> <cite>&mdash; Mike Adam</cite></p>
 						</blockquote>
-					</div>
+					</div> -->
 
 				</div>
 
@@ -353,13 +353,13 @@
 					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
 					<p><a href="#">Learn More</a></p>
 					<ul class="fh5co-footer-links">
-						<li>sample@sample.com</li>
-						<li>TEL : 000-000-0000</li>
-						<li>Mobile : 000-000-0000</li>
+						<li>bushithas@gmail.com</li>
+						<li>Facebook and YouTube : Bushitha Sehan</li>
+						<li>Mobile : 077 079 9190</li>
 
 					</ul>
 				</div>
-				
+
 			</div>
 
 			<!-- Footer part  -->
@@ -371,10 +371,10 @@
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<!-- <li><a href="#"><i class="icon-twitter"></i></a></li> -->
+							<li><a href="https://www.facebook.com/bushitha.sehan"><i class="icon-facebook"></i></a></li>
+							<!-- <li><a href="#"><i class="icon-linkedin"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li> -->
 						</ul>
 					</p>
 				</div>
